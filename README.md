@@ -1,13 +1,53 @@
-# Hola Mundo 👋
+<h1 align="center">Hi there, I'm Nerea 👋</h1>
 
-Soy una programadora junior que desde joven ha sentido pasíon por el mundo del software y hardware. También suelo hacer cositas en pixel art y jugar videojuegos.
+<p align="center">
+  <b>DevSecOps / SRE Lead @ Making Science</b><br/>
+  Building and securing reliable cloud infrastructure ☁️🔒
+</p>
 
-**Los lenguajes con los que trabajo son**
+<p align="center">
+  <a href="https://sigterm.vodka"><img src="https://img.shields.io/badge/Website-sigterm.vodka-8A2BE2?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/nerea-kalandadze/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:me@sigterm.vodka"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NereaCassian)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Mis repositorios destacados:
+### 🚀 About me
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NereaCassian&repo=RatBot)](https://github.com/anuraghazra/github-readme-stats)
+I lead a DevSecOps practice, designing and operating secure, reliable cloud
+infrastructure across client and internal projects. My day-to-day mixes cloud
+architecture, Infrastructure as Code, CI/CD, observability and hands-on
+cybersecurity — from threat modeling and hardening to pentesting.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NereaCassian&repo=habitica-discord-bot)](https://github.com/anuraghazra/github-readme-stats)
+- 🌍 Based in Barcelona, Spain (CET)
+- 🔭 Leading DevSecOps & SRE at **Making Science**
+- 🛡️ Passionate about security, automation and reliability
+- ☁️ AWS & Google Cloud certified architect
+
+### 🛠️ Tech & Tools
+
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Security](https://img.shields.io/badge/Security-000000?style=flat&logo=hackthebox&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SIGTERM-015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIGTERM-015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIGTERM-015&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center"><i>“Automate everything, secure by default.”</i></p>
