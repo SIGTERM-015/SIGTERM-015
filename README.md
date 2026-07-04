@@ -50,15 +50,16 @@ findings I've been rewarded for:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SIGTERM-015">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SIGTERM-015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/SIGTERM-015">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIGTERM-015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SIGTERM-015&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SIGTERM-015&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SIGTERM-015&theme=tokyonight" alt="Most Commit Language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SIGTERM-015&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
   <img src="https://streak-stats.demolab.com/?user=SIGTERM-015&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
