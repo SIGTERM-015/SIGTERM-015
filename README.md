@@ -25,6 +25,16 @@ cybersecurity — from threat modeling and hardening to pentesting.
 - 🛡️ Passionate about security, automation and reliability
 - ☁️ AWS & Google Cloud certified architect
 
+### 🐛 Security Research (for fun)
+
+Outside of work I also poke at internet-facing services as a hobbyist bug
+bounty hunter, always following **responsible / coordinated disclosure**:
+find it, report it privately to the owner, help them fix it. A couple of
+findings I've been rewarded for:
+
+- 🎯 **Exposed database dump on a high-traffic web app tied to a well-known Spanish streamer.** Basic content/directory discovery surfaced a path serving a full, unauthenticated DB dump over HTTP. Reported privately → bounty.
+- 🎯 **Broken access control on a Spanish regional public-sector education platform.** While helping someone enroll in a course, an error led me to an unauthenticated endpoint that returned a student's personal data — and their guardians' data for anyone enrolled as a minor — given only a national ID number (DNI). Reported privately → bounty.
+
 ### 🛠️ Tech & Tools
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -40,12 +50,16 @@ cybersecurity — from threat modeling and hardening to pentesting.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SIGTERM-015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIGTERM-015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <a href="https://github.com/SIGTERM-015">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SIGTERM-015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/SIGTERM-015">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIGTERM-015&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIGTERM-015&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=SIGTERM-015&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
